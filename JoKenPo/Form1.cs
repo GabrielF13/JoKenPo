@@ -22,13 +22,13 @@ namespace JoKenPo
             StartGame(0);
         }
 
-        private void btnPapel_Click(object sender, EventArgs e)
+        private void btnTesoura_Click(object sender, EventArgs e)
         {
             StartGame(1);
 
         }
 
-        private void btnTesoura_Click(object sender, EventArgs e)
+        private void btnPapel_Click(object sender, EventArgs e)
         {
             StartGame(2);
 

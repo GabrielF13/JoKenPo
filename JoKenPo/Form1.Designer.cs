@@ -52,7 +52,7 @@
             this.labelTItulo.Name = "labelTItulo";
             this.labelTItulo.Size = new System.Drawing.Size(799, 120);
             this.labelTItulo.TabIndex = 0;
-            this.labelTItulo.Text = "Escolha: Pedra, Papel ou Tesousa";
+            this.labelTItulo.Text = "Escolha: Pedra, Papel ou Tesoura";
             // 
             // pictureBox1
             // 
